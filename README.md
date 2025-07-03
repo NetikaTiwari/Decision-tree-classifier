@@ -5,7 +5,7 @@ This project builds a **Decision Tree Classifier** to predict whether a customer
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 📁 project_folder/
@@ -18,13 +18,13 @@ This project builds a **Decision Tree Classifier** to predict whether a customer
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To analyze customer data and predict their likelihood of subscribing to a term deposit using a decision tree model.
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -34,7 +34,7 @@ To analyze customer data and predict their likelihood of subscribing to a term d
 
 ---
 
-## 🚀 How to Run the App
+## How to Run the App
 
 1. Open terminal in the folder where your files are located.
 2. Run the notebook first to generate the model:
@@ -52,15 +52,15 @@ To analyze customer data and predict their likelihood of subscribing to a term d
 
 ---
 
-## 📦 GitHub Upload Tips
+## GitHub Upload Tips
 
-- ✅ Include: `streamlit_app.py`, `decision tree classifier.ipynb`, `README.md`
-- ❌ Exclude: `.ipynb_checkpoints/` and any unnecessary cache files
+- Include: `streamlit_app.py`, `decision tree classifier.ipynb`, `README.md`
+- Exclude: `.ipynb_checkpoints/` and any unnecessary cache files
 - Optional: Skip uploading `decision_tree_model.pkl` if your notebook saves it
 
 ---
 
-## 🙋‍♀️ Author
+## Author
 
 **Netika Tiwari**  
 Intern at Prodigy Infotech  
